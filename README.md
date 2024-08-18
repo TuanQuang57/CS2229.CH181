@@ -1,3 +1,15 @@
+# CS2229.CH181 - Thuật toán và lý thuyết máy học
+
+|    Thành viên   |    MSSV       |
+|-----------------|---------------|
+|Nguyễn Kiều Vinh |   18521653    |
+|Nguyễn Tuấn Quang|   18521302    |
+
+# Link dataset :
+
+[Year Prediction MSD](https://archive.ics.uci.edu/dataset/203/yearpredictionmsd)
+[Scan Localization](https://www.kaggle.com/datasets/uciml/ct-slice-localization)
+
 # Gradient-Boosting-Performs-Gaussian-Process-Inference-Experiments
 Under review for ICLR 2023 "Gradient Boosting Performs Gaussian Process Inference"
 
